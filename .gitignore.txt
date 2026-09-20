@@ -1,0 +1,20 @@
+# Данные
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# Google Colab
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Системные файлы
+.DS_Store
+Thumbs.db
