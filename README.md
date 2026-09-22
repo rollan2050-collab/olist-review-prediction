@@ -11,7 +11,7 @@ bad_review = 0 — оценка 3–5 звёзд.
 Прогноз выполняется после завершения доставки, когда фактическая информация о доставке уже известна, но клиентский отзыв ещё не оставлен.
 
 Данные
-В проекте используется датасет Brazilian E-Commerce Public Dataset by Olist, состоящий из 9 CSV-файлов:
+В проекте используется датасет Brazilian E-Commerce Public Dataset by Olist (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) , состоящий из 9 CSV-файлов:
 
 olist_customers_dataset.csv
 
